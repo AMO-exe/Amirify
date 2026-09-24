@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://trendshift.io/repositories/25296?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-25296" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/25296" alt="Graphify-Labs%2Famirify | Trendshift" width="250" height="55"/></a>
+  </a>
 </p>
 
 <div align="center">
